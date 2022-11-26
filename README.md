@@ -10,18 +10,11 @@ Lavender seedr is an android streaming app for movies, for movies, tv-shows and 
 
 ### App Feature
 
-1. Supported Seedr cc Account Login only.
-
-2. Search You desire Movie / TV Shows and it Scrap it's magnet link and add to your files.
-
-3. SD & HD Quality Supported.
-
-4. External Players Supported. 
-
-5. Download Supported.
-
-6.  It replaces the file with the previous file because of limited storage. (But you can use referral to get 4GB 😜).
-
-7.  User Friendly Interface (Simple UI). 👋
-
-8. Light / Dark Mode Supported.
+- Supported Seedr cc Account Login only.
+- Search You desire Movie / TV Shows and it Scrap it's magnet link and add to your files.
+- SD & HD Quality Supported.
+- External Players Supported. 
+- Download Supported.
+- It replaces the file with the previous file because of limited storage. (But you can use referral to get 4GB 😜).
+- User Friendly Interface (Simple UI). 👋
+- Light / Dark Mode Supported.
