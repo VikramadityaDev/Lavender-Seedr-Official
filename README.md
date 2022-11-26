@@ -2,10 +2,10 @@
 
 ![image1](https://github.com/VikramadityaDev/Lavender-Seedr-Offical/blob/main/assets/Lavender%20Seedr%20poster.png)
 
-VikiMedia is an android streaming app for movies, for movies, tv-shows and anime.
+Lavender seedr is an android streaming app for movies, for movies, tv-shows and anime.
 
 <p align="center">
-<a href="https://github.com/VikramadityaDev/VikiMedia-Official/releases/download/v1.0.1/VikiMedia.v1.0.1.apk"><img src="https://img.shields.io/github/downloads/VikramadityaDev/VikiMedia-Official/v1.0.1/total?color=g&label=Download&logo=Android&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/VikramadityaDev/VikiMedia-Official/releases/download/v1.0.1/VikiMedia.v1.0.1.apk"><img src="https://img.shields.io/github/downloads/VikramadityaDev/Lavender-Seedr-Official/v1.0.0/total?color=g&label=Download&logo=Android&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ### Feature
