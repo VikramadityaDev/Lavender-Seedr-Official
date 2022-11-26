@@ -5,7 +5,7 @@
 Lavender seedr is an android streaming app for movies, for movies, tv-shows and anime.
 
 <p align="center">
-<a href="https://github.com/VikramadityaDev/Lavender-Seedr-Official/releases/download/v1.0.0/Lavender.Seedr.v1.0.0.apk"><img src="https://img.shields.io/github/downloads/VikramadityaDev/Lavender-Seedr-Official/v1.0.0/total?color=g&label=Download&logo=Android&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/VikramadityaDev/Lavender-Seedr-Official/releases/download/Download/Lavender.Seedr.v1.0.0.apk"><img src="https://img.shields.io/github/downloads/VikramadityaDev/Lavender-Seedr-Official/Download/total?color=g&label=Download&logo=Android&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ### Feature
